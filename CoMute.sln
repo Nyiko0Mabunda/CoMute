@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoMute.Web", "CoMute.Web\CoMute.Web.csproj", "{A2B49156-ED8B-46C6-B12B-86DC19573429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B49156-ED8B-46C6-B12B-86DC19573429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B49156-ED8B-46C6-B12B-86DC19573429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B49156-ED8B-46C6-B12B-86DC19573429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B49156-ED8B-46C6-B12B-86DC19573429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB8A5184-8746-4C55-B6C4-4991C56AC62E}
+	EndGlobalSection
+EndGlobal
